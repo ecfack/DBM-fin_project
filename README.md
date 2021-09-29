@@ -6,8 +6,8 @@
 1. copy這份專案
 2. 使用xampp打開Apache和MySQL
 3. 建立DB叫foodmap，把foodmap.sql載入
-4. 由localhost移動到此專案所在的路由下的Homepage.php
-   ex：http://localhost/DBM-fin_project/Homepage.php
+4. 由localhost移動到此專案所在的路由下的Homepage.php，
+   ex：http://localhost/DBM_fin_project-PHP/Homepage.php
 4. 開始使用
 
 #### 使用說明
