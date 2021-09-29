@@ -1,0 +1,21 @@
+article {
+    margin: 0 auto;
+    padding: .3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+    width: 50%;
+}
+
+input {
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+div p{
+    text-align: center;
+}
